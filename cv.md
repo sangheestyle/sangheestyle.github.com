@@ -36,7 +36,7 @@ Research Assistant
 
 * Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA. (used platform: Python, pygithub, cassandra, etc.) (in progress)
 * Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid (APAC), supported by DARPA (Python)
-* 
+
 #### LG Electronics, Mobile Communications Company, Feb. 2005 - Feb. 2012 (7 years 1 month), Seoul, South Korea
 
 ##### LAP (LG Android Projects) Apr. 2011 - Feb. 2012  
