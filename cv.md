@@ -32,21 +32,19 @@ Computer Science, Mar. 2003)
 ## Work Experience
 
 ### University of Colorado Boulder, Jan. 2014 - Present  
-Research Assistant
-
+Research Assistant  
 * Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA. (used platform: Python, pygithub, cassandra, etc.) (in progress)
 * Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid (APAC), supported by DARPA (Python)
 
 ### LG Electronics, Mobile Communications Company, Feb. 2005 - Feb. 2012 (7 years 1 month), Seoul, South Korea
 
 #### LAP (LG Android Projects) Apr. 2011 - Feb. 2012  
-Andorid Platform Integration Engineer
+Andorid Platform Integration Engineer  
 * As a startup member, initiated LAP (LG Android Projects) - a collaboration system, for tasks employing Android platforms for facilitating software developments by software tools e.g., code reviewer, wiki, forums, Q&A, and CI, etc.
 * Analyzed data from Git and Gerrit code review for consulting, lecturing and revising process.
 
 #### VS910 (LG Revolution), Jul. 2010 - Mar. 2011  
-Android Platform Integration Engineer
-
+Android Platform Integration Engineer  
 * Developed the commercial product known as VS910 (LG Revolution) - LG's ever first LTE smart phone.
 * Maintained source codes for VS910, which is a large-scaled task more than 300 developers were involved in.
 * Intenaionally collaborated with technical teams in CA and NJ, US, and Seoul, South Korea, providing technical tools utilizing Git, Gerrit code review, CI, Rsync, build farm, etc.
