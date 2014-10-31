@@ -10,7 +10,7 @@ title: cv
 
 ## Summary
 
-My career objective is to develop a stable software development process and activate the participation of developers through computer supported cooperative work.
+My career objective is to develop a stable software development process and activate the participation of developers by analyzing what they made e.g., software repositories.
 
 ## Skills
 
@@ -42,7 +42,7 @@ Research Assistant
 #### LAP (LG Android Projects) Apr. 2011 - Feb. 2012  
 Andorid Platform Integration Engineer
 * As a startup member, initiated LAP (LG Android Projects) - a collaboration system, for tasks employing Android platforms for facilitating software developments by software tools e.g., code reviewer, wiki, forums, Q&A, and CI, etc.
-* Analysed data from Git and Gerrit code review for consulting, lecturing and revising process.
+* Analyzed data from Git and Gerrit code review for consulting, lecturing and revising process.
 
 #### VS910 (LG Revolution), Jul. 2010 - Mar. 2011  
 Android Platform Integration Engineer
