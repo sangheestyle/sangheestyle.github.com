@@ -30,38 +30,49 @@ Work Experience
 University of Colorado Boulder - January 2014 - Present
 Research Assistant
 
-* Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA (in progress) (Python, pygithub, cassandra)
+* Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA. (used platform: Python, pygithub, cassandra, etc.) (in progress)
 * Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid (APAC), supported by DARPA (Python)
 
-LG Electronics, Mobile Communications Company, Software Engineer Feb. 2005 - Feb. 2012 (7 years 1 month), Seoul, Korea
+LG Electronics, Mobile Communications Company, Feb. 2005 - Feb. 2012 (7 years 1 month), Seoul, South Korea
 
-Projects:
+LAP (LG Android Projects) Apr. 2011 - Feb. 2012
+Andorid Platform Integration Engineer
+* As a startup member, initiated LAP (LG Android Projects) - a collaboration system, for tasks employing Android platforms for facilitating software developments by software tools e.g., code reviewer, wiki, forums, Q&A, and CI, etc.
+* Analysed data from Git and Gerrit code review for consulting, lecturing and revising process.
 
-Apr. 2011 - Feb. 2012 Integration Engineer, Android, LAP
-Founding LAP(LG Android Projects), a collaboration system, for Android based projects in order to enhance the software development process and activate the participation of developers by forum, wiki, Q&A, review, and CI systems. Also, analysing data from version control system Git and Gerrit code reviewer for improving developers by consulting, lectures and revised process.
+VS910 (LG Revolution), Jul. 2010 - Mar. 2011
+Android Platform Integration Engineer
+* Developed the commercial product known as VS910 (LG Revolution) - LG's ever first LTE smart phone.
+* Maintained source codes for VS910, which is a large-scaled task more than 300 developers were involved in.
+* Intenaionally collaborated with technical teams in CA and NJ, US, and Seoul, South Korea, providing technical tools utilizing Git, Gerrit code review, CI, Rsync, build farm, etc.
 
-Jul. 2010 - Mar. 2011 Integration Engineer, Android, VS910 (LG first LTE device)
-Maintaining development project for VS910 project, a large-scale project based on Android, through revised software development process based on Git and Gerrit code review. Also, Facilitating collaboration among developers in Seoul, Korea, New Jersey, USA and San Diego, USA by Git, Rsync and Etc., as well as improving build by build farm.
+Android Platform Integration Engineer, Dec. 2009 - Jun. 2010
+* Evaluated software development process for project teams involved in Android Open Source Project (AOSP)
+* Collaborated with Android Build and Integration Team (ABAIT) in CA, US, and acquired the knowledge of Android build and integration process in CO, US.
 
-Dec. 2009 - Jun. 2010 Integration Engineer, Android
-Researching software development process based on Android platform through referring process of Android Open Source Project(AOSP) and visiting Android Build and Integration Team(ABAIT) to learn Android build and integration process at Boulder, Colorado, USA.
+GM730, Jun. 2009 - Nov. 2009
+Windows Mobile Platform Integration Engineer
+* Maintained source codes of GM730 country adaptation(Windows Mobile 6.5) and utilized CI on Cruise Control.net.
 
-Jun. 2009 - Nov. 2009 Integration Engineer, Windows Mobile, GM730
-Maintaining source code of GM730 country adaptation based on Windows Mobile 6.5. Also, introducing Continuous Integration by Cruise Control.net.
+KT610, KT610, KT770 Mar. 2007 - May. 2009
+Symbian/S60 Integration Engineer
+* Maintained process and source code of Symbian/S60 based projects by Clear Case, and Mantis, etc. and improved build systems. 
+* Founded Wiki by wiki.lge.com for facilitating developers for sharing information efficiently.
 
-Mar. 2007 - May. 2009 Integration Engineer, Symbian/S60, KT610, KT610, KT770
-Maintaining process and source code of Symbian/S60 based projects by Clear Case, Mantis, and Etc. as well as improving build systems. Also, founding Wiki by wiki.lge.com for encouraging developers to share information effectively.
+KS10 (LG first smartphone), Jun. 2005 - Feb. 2007
+Symbian/S60 Framework Programmer
+* Ported SyncML and OMA DRM to Symbian/S60 mobile devices written in C++.
+* Integrated S60 licensed PC Suite written in MFC, an interface between mobile device and PC.
 
-Jun. 2005 - Feb. 2007 Framework Programmer, Symbian/S60, KS10 (LG first smartphone)
-Porting SyncML, Syncronization Markup Language for mainly PIM data, and OMA DRM to Symbian/S60 mobile devices based on C++. Also, integrating S60 licensed PC Suite, an interface between mobile device and PC including UI adaption and verifying device drivers. (MFC)
 ---
 Lecturing Experience
-Using Git and Gerrit for Android software developers, MC Lab, LG Electronics, Korea, 2010 - 2012 (over ten times)
-Integration process and strategies for Android integrators by Git and Gerrit, MC Lab, LG Electronics, Korea, 2011 - 2012
-How to develop Symbian/S60 smartphone from setting build environment to debugging, LG Soft India, India, Mar. 2009
+
+* Using Git and Gerrit for Android software developers, MC Lab, LG Electronics, Korea, 2010 - 2012 (over ten times)
+* Integration process and strategies for Android integrators by Git and Gerrit, MC Lab, LG Electronics, Korea, 2011 - 2012
+* How to develop Symbian/S60 smartphone from setting build environment to debugging, LG Soft India, India, Mar. 2009
 
 ---
 Training
 
-Agile coach squared course for ‘How can I change myself and organization’ by Agile Consulting www.ac2.kr , Jun. 2010 - Aug. 2010
-Introduction to Media Arts course for using Arduino and Processing by Everyware http://everyware.kr , Aug. 2008
+* Agile coach squared course for ‘How can I change myself and organization’ by Agile Consulting www.ac2.kr , Jun. 2010 - Aug. 2010
+* Introduction to Media Arts course for using Arduino and Processing by Everyware http://everyware.kr , Aug. 2008
