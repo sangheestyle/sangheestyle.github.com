@@ -1,33 +1,32 @@
-Sanghee Kim
-sangheestyle@gmail.com, +1(303) 570-0325, https://http://sangheestyle.github.io
-Boulder, CO 80302
+## Sanghee Kim
+
+sangheestyle@gmail.com, https://http://sangheestyle.github.io
+Boulder, CO
 
 ## Summary
 
-My career objective is developing a stable software development process and activating the participation of developers through computer supported cooperative work.
+My career objective is to develop a stable software development process and activate the participation of developers through computer supported cooperative work.
 
 ## Skills
 
 Programming Languages: Python, Bash
 Tools: Git, Gerrit, Jenkins
-Operating System: Linux(Debian, Primary OS for Desktop), Mac OS X(For
-labtop)
+Operating System: Linux (Debian, Primary OS for Desktop), Mac OS X (for labtop)
 
 ## Education
 
-University of Colorado Boulder August 2013 - May 2015 (Expected)
+University of Colorado Boulder Aug. 2013 - May 2015 (Expected)
 M.S., Computer Science
-Research Advisor: Professor Tom Yeh
+Research Advisor: Prof. Tom Yeh
 
-Inha University, Incheon, Korea
-B.S., Computer Science & Engineering, 2005 (Honor Student, 2003 2nd and 2004 1st Semester)
-
-Seokyeong University, Seoul, Korea
-Computer Science, 2003
+Inha University, Incheon, South Korea
+B.S., Computer Science & Engineering, Feb. 2005 (Honor Student, 2003 2nd and 2004 1st Semester)
+(Transferred from Seokyeong University, Seoul, South Korea
+Computer Science, Mar. 2003)
 
 ## Work Experience
 
-University of Colorado Boulder - January 2014 - Present
+University of Colorado Boulder - Jan. 2014 - Present
 Research Assistant
 
 * Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA. (used platform: Python, pygithub, cassandra, etc.) (in progress)
