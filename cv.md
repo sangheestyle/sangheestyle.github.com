@@ -1,6 +1,7 @@
 ## Sanghee Kim
 
-sangheestyle@gmail.com, https://http://sangheestyle.github.io  
+sangheestyle@gmail.com  
+http://sangheestyle.github.io  
 Boulder, CO
 
 ## Summary
