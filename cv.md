@@ -1,19 +1,19 @@
 Sanghee Kim
 sangheestyle@gmail.com, +1(303) 570-0325, https://http://sangheestyle.github.io
 Boulder, CO 80302
----
-Summary
+
+## Summary
 
 My career objective is developing a stable software development process and activating the participation of developers through computer supported cooperative work.
----
-Skills
+
+## Skills
 
 Programming Languages: Python, Bash
 Tools: Git, Gerrit, Jenkins
 Operating System: Linux(Debian, Primary OS for Desktop), Mac OS X(For
 labtop)
----
-Education
+
+## Education
 
 University of Colorado Boulder August 2013 - May 2015 (Expected)
 M.S., Computer Science
@@ -24,8 +24,8 @@ B.S., Computer Science & Engineering, 2005 (Honor Student, 2003 2nd and 2004 1st
 
 Seokyeong University, Seoul, Korea
 Computer Science, 2003
----
-Work Experience
+
+## Work Experience
 
 University of Colorado Boulder - January 2014 - Present
 Research Assistant
@@ -57,22 +57,21 @@ Windows Mobile Platform Integration Engineer
 KT610, KT610, KT770 Mar. 2007 - May. 2009
 Symbian/S60 Integration Engineer
 * Maintained process and source code of Symbian/S60 based projects by Clear Case, and Mantis, etc. and improved build systems. 
-* Founded Wiki by wiki.lge.com for facilitating developers for sharing information efficiently.
+* Founded Wiki by wiki.lge.com for facilitating developers for effectively sharing information.
 
 KS10 (LG first smartphone), Jun. 2005 - Feb. 2007
-Symbian/S60 Framework Programmer
-* Ported SyncML and OMA DRM to Symbian/S60 mobile devices written in C++.
-* Integrated S60 licensed PC Suite written in MFC, an interface between mobile device and PC.
+Symbian/S60 Framework Developer
+* Ported SyncML and OMA DRM into Symbian/S60 mobile devices developed in C++.
+* Integrated S60 licensed PC Suite, an interface between mobile device and PC, developed in MFC.
 
----
-Lecturing Experience
+##
+Talks & Lectures
 
-* Using Git and Gerrit for Android software developers, MC Lab, LG Electronics, Korea, 2010 - 2012 (over ten times)
-* Integration process and strategies for Android integrators by Git and Gerrit, MC Lab, LG Electronics, Korea, 2011 - 2012
-* How to develop Symbian/S60 smartphone from setting build environment to debugging, LG Soft India, India, Mar. 2009
+* Lectured 10 classes for Git and Gerrit for Android software developers at MC Lab of LG Electronics in South Korea, 2010 - 2012. (in Korean)
+* Introduced integration process and strategies for Android integrators by Git and Gerrit at MC Lab of LG Electronics in South Korea, 2011 - 2012. (in Korean)
+* Held a 5-day long workshop for developing Symbian/S60 smartphone from setting build environment to debugging at LG Soft India Ltd. in India, Mar. 2009. (in English)
 
----
-Training
+## Relevant Training
 
-* Agile coach squared course for ‘How can I change myself and organization’ by Agile Consulting www.ac2.kr , Jun. 2010 - Aug. 2010
-* Introduction to Media Arts course for using Arduino and Processing by Everyware http://everyware.kr , Aug. 2008
+* Agile coach squared course entitled, "How Can I Change Myself and Organization," held by Agile Consulting (www.ac2.kr) in Seoul, South Korea, Jun. 2010 - Aug. 2010 
+* Course entitled, "Introduction to Media Arts," for using Arduino and Processing by Everyware (http://everyware.kr) in Seoul, South Korea, Aug. 2008
