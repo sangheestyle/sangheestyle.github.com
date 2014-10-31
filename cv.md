@@ -52,6 +52,7 @@ Android Platform Integration Engineer
 * Intenaionally collaborated with technical teams in CA and NJ, US, and Seoul, South Korea, providing technical tools utilizing Git, Gerrit code review, CI, Rsync, build farm, etc.
 
 ##### Android Platform Integration Engineer, Dec. 2009 - Jun. 2010  
+
 * Evaluated software development process for project teams involved in Android Open Source Project (AOSP)
 * Collaborated with Android Build and Integration Team (ABAIT) in CA, US, and acquired the knowledge of Android build and integration process in CO, US.
 
