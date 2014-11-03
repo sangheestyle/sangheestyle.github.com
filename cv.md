@@ -14,9 +14,10 @@ My career objective is to develop a stable software development process and acti
 
 ## Skills
 
-* Programming Languages: Python, Bash  
-* Tools: Git, Gerrit, Jenkins
-* Operating System: Linux (Debian, Primary OS for Desktop), Mac OS X (for labtop)  
+* Programming Languages: Python, Bash, Java
+* Python Packages: IPython, Pandas, Numpy, NLTK, Networkx, PyGithub
+* Tools: Git, Gerrit, Jenkins, ClearCase
+* Operating System: Linux (Debian, Primary OS for Desktop), Mac OS X (for labtop), Windows(including Sever Editions)
 
 ## Education
 
@@ -35,15 +36,15 @@ Computer Science, Mar. 2003)
 ### University of Colorado Boulder, Jan. 2014 - Present  
 Research Assistant
 
-* Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA. (used platform: Python, pygithub, cassandra, etc.) (in progress)
-* Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid (APAC), supported by DARPA (Python)
+* Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, MUSE supported by DARPA. (used: Python, PyGithub, Cassandra, etc.) (in progress)
+* Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid (APAC), supported by DARPA (used: Python)
 
 ### LG Electronics, Mobile Communications Company, Feb. 2005 - Feb. 2012 (7 years 1 month), Seoul, South Korea
 
 #### LAP (LG Android Projects) Apr. 2011 - Feb. 2012  
 Andorid Platform Integration Engineer
 
-* As a startup member, initiated LAP (LG Android Projects) - a collaboration system, for tasks employing Android platforms for facilitating software developments by software tools e.g., code reviewer, wiki, forums, Q&A, and CI, etc.
+* As a startup member, initiated LAP (LG Android Projects) - a collaboration system, for tasks employing Android platforms for facilitating software developments by software tools e.g., code reviewer, wiki, forums, Q&A, and CI, etc. (used: Git, Gerrit, Doku wiki, Jenkins)
 * Analyzed data from Git and Gerrit code review for consulting, lecturing and revising process.
 
 #### VS910 (LG Revolution), Jul. 2010 - Mar. 2011  
