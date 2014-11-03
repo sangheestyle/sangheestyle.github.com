@@ -17,7 +17,7 @@ My career objective is to develop a stable software development process and acti
 * Programming Languages: Python, Bash, Java
 * Python Packages: IPython, Pandas, Numpy, NLTK, Networkx, PyGithub
 * Tools: Git, Gerrit, Jenkins, ClearCase
-* Operating System: Linux (Debian, Primary OS for Desktop), Mac OS X (for labtop), Windows(including Sever Editions)
+* Operating System: Linux (Debian, Primary OS for Desktop), Mac OS X (for labtop), Windows (including Sever Editions)
 
 ## Education
 
