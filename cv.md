@@ -37,7 +37,7 @@ Computer Science, Mar. 2003)
 Research Assistant
 
 * Developed a crawler and analyzer for feeding data of projectes hoseted at github into Big Data infrastructures in the prject, [DARPA MUSE Program](http://www.darpa.mil/Our_Work/I2O/Programs/Mining_and_Understanding_Software_Enclaves_(MUSE).aspx). (used: Python, PyGithub, Cassandra, etc.) (in progress)
-* Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid (APAC), supported by DARPA (used: Python)
+* Analyzed similarity among documents such as android app descriptions from Google Play, and classified them in the project, Andorid, [DARPA APAC Program](http://www.darpa.mil/Our_Work/I2O/Programs/Automated_Program_Analysis_for_Cybersecurity_(APAC).aspx) (used: Python)
 
 ### LG Electronics, Mobile Communications Company, Feb. 2005 - Feb. 2012 (7 years 1 month), Seoul, South Korea
 
