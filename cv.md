@@ -25,11 +25,11 @@ My career objective is to develop a stable software development process and acti
 M.S., Computer Science  
 Research Advisor: Prof. Tom Yeh  
 
-### Inha University, Incheon, South Korea  
-B.S., Computer Science & Engineering, Feb. 2005 (Honor Student, 2003 2nd and 2004 1st Semester)
+### Inha University, Incheon, South Korea Mar. 2003 - Feb. 2005
+B.S., Computer Science & Engineering (Honor Student, 2003 2nd and 2004 1st Semester)
 
-(Transferred from Seokyeong University, Seoul, South Korea  
-Computer Science, Mar. 2003)  
+(Transferred from Seokyeong University, Seoul, South Korea Mar. 2003
+Computer Science)  
 
 ## Work Experience
 
