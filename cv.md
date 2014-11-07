@@ -21,11 +21,11 @@ My career objective is to develop a stable software development process and acti
 
 ## Education
 
-### University of Colorado Boulder Aug. 2013 - May 2015 (Expected)  
+### University of Colorado Boulder, Aug. 2013 - May 2015 (Expected)  
 M.S., Computer Science  
 Research Advisor: Prof. Tom Yeh  
 
-### Inha University, Incheon, South Korea Mar. 2003 - Feb. 2005
+### Inha University, Incheon, South Korea, Mar. 2003 - Feb. 2005
 B.S., Computer Science & Engineering (Honor Student, 2003 2nd and 2004 1st Semester)
 
 (Transferred from Seokyeong University, Seoul, South Korea Mar. 2003
