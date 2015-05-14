@@ -1,0 +1,609 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "deletions": 1, 
+            "company": "sonyericsson.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "jorgen.ekstrom@sonyericsson.com"
+        }, 
+        {
+            "deletions": 16, 
+            "company": "google.com", 
+            "insertions": 18, 
+            "bipartite": 0, 
+            "id": "marcone@google.com"
+        }, 
+        {
+            "deletions": 2, 
+            "company": "google.com", 
+            "insertions": 5, 
+            "bipartite": 0, 
+            "id": "adamlesinski@google.com"
+        }, 
+        {
+            "deletions": 163, 
+            "company": "google.com", 
+            "insertions": 236, 
+            "bipartite": 0, 
+            "id": "joefernandez@google.com"
+        }, 
+        {
+            "deletions": 5, 
+            "company": "google.com", 
+            "insertions": 3, 
+            "bipartite": 0, 
+            "id": "ddougherty@google.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "google.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "lockwood@google.com"
+        }, 
+        {
+            "deletions": 7, 
+            "company": "sonymobile.com", 
+            "insertions": 14, 
+            "bipartite": 0, 
+            "id": "kenji.xb.sugimoto@sonymobile.com"
+        }, 
+        {
+            "deletions": 10514, 
+            "company": "google.com", 
+            "insertions": 16573, 
+            "bipartite": 0, 
+            "id": "baligh@google.com"
+        }, 
+        {
+            "deletions": 31, 
+            "company": "google.com", 
+            "insertions": 29, 
+            "bipartite": 0, 
+            "id": "yabinc@google.com"
+        }, 
+        {
+            "deletions": 6, 
+            "company": "google.com", 
+            "insertions": 10, 
+            "bipartite": 0, 
+            "id": "vharron@google.com"
+        }, 
+        {
+            "deletions": 27, 
+            "company": "linaro.org", 
+            "insertions": 29, 
+            "bipartite": 0, 
+            "id": "Bernhard.Rosenkranzer@linaro.org"
+        }, 
+        {
+            "deletions": 10, 
+            "company": "google.com", 
+            "insertions": 7, 
+            "bipartite": 0, 
+            "id": "dimitry@google.com"
+        }, 
+        {
+            "deletions": 328, 
+            "company": "google.com", 
+            "insertions": 653, 
+            "bipartite": 0, 
+            "id": "smain@google.com"
+        }, 
+        {
+            "deletions": 12, 
+            "company": "google.com", 
+            "insertions": 16, 
+            "bipartite": 0, 
+            "id": "yamasani@google.com"
+        }, 
+        {
+            "deletions": 4, 
+            "company": "htc.com", 
+            "insertions": 5, 
+            "bipartite": 0, 
+            "id": "tingna_sung@htc.com"
+        }, 
+        {
+            "deletions": 17, 
+            "company": "google.com", 
+            "insertions": 21, 
+            "bipartite": 0, 
+            "id": "calin@google.com"
+        }, 
+        {
+            "deletions": 7, 
+            "company": "sonymobile.com", 
+            "insertions": 11, 
+            "bipartite": 0, 
+            "id": "akira.numata@sonymobile.com"
+        }, 
+        {
+            "deletions": 220, 
+            "company": "google.com", 
+            "insertions": 255, 
+            "bipartite": 0, 
+            "id": "danalbert@google.com"
+        }, 
+        {
+            "deletions": 194, 
+            "company": "android.com", 
+            "insertions": 178, 
+            "bipartite": 0, 
+            "id": "jreck@android.com"
+        }, 
+        {
+            "deletions": 1906, 
+            "company": "google.com", 
+            "insertions": 2030, 
+            "bipartite": 0, 
+            "id": "mendal@google.com"
+        }, 
+        {
+            "deletions": 2, 
+            "company": "google.com", 
+            "insertions": 2, 
+            "bipartite": 0, 
+            "id": "jsams@google.com"
+        }, 
+        {
+            "deletions": 14, 
+            "company": "codeaurora.org", 
+            "insertions": 16, 
+            "bipartite": 0, 
+            "id": "padarshr@codeaurora.org"
+        }, 
+        {
+            "deletions": 52, 
+            "company": "google.com", 
+            "insertions": 47, 
+            "bipartite": 0, 
+            "id": "enh@google.com"
+        }, 
+        {
+            "deletions": 12, 
+            "company": "google.com", 
+            "insertions": 68, 
+            "bipartite": 0, 
+            "id": "rcervera@google.com"
+        }, 
+        {
+            "deletions": 22, 
+            "company": "google.com", 
+            "insertions": 24, 
+            "bipartite": 0, 
+            "id": "quddusc@google.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "intel.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "guobin.zhang@intel.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "google.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "vmarko@google.com"
+        }, 
+        {
+            "deletions": 3457, 
+            "company": "google.com", 
+            "insertions": 3199, 
+            "bipartite": 0, 
+            "id": "agampe@google.com"
+        }, 
+        {
+            "deletions": 12, 
+            "company": "google.com", 
+            "insertions": 31, 
+            "bipartite": 0, 
+            "id": "nnk@google.com"
+        }, 
+        {
+            "deletions": 4, 
+            "company": "google.com", 
+            "insertions": 15, 
+            "bipartite": 0, 
+            "id": "djsollen@google.com"
+        }, 
+        {
+            "deletions": 12, 
+            "company": "google.com", 
+            "insertions": 41, 
+            "bipartite": 0, 
+            "id": "nfuller@google.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "lge.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "younghwan1.kim@lge.com"
+        }, 
+        {
+            "deletions": 20, 
+            "company": "google.com", 
+            "insertions": 61, 
+            "bipartite": 0, 
+            "id": "jaggies@google.com"
+        }, 
+        {
+            "deletions": 9, 
+            "company": "google.com", 
+            "insertions": 11, 
+            "bipartite": 0, 
+            "id": "chh@google.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "google.com", 
+            "insertions": 2, 
+            "bipartite": 0, 
+            "id": "dcashman@google.com"
+        }, 
+        {
+            "deletions": 7, 
+            "company": "lge.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "dohyun.lee@lge.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "google.com", 
+            "insertions": 1, 
+            "bipartite": 0, 
+            "id": "amitmahajan@google.com"
+        }, 
+        {
+            "deletions": 16, 
+            "company": "google.com", 
+            "insertions": 27, 
+            "bipartite": 0, 
+            "id": "cmautner@google.com"
+        }, 
+        {
+            "deletions": 11, 
+            "company": "lge.com", 
+            "insertions": 7, 
+            "bipartite": 0, 
+            "id": "sk82.lee@lge.com"
+        }, 
+        {
+            "deletions": 45, 
+            "company": "google.com", 
+            "insertions": 151, 
+            "bipartite": 0, 
+            "id": "jeffhao@google.com"
+        }, 
+        {
+            "deletions": 4, 
+            "company": "google.com", 
+            "insertions": 16, 
+            "bipartite": 0, 
+            "id": "mathieuc@google.com"
+        }, 
+        {
+            "deletions": 2, 
+            "company": "google.com", 
+            "insertions": 2, 
+            "bipartite": 0, 
+            "id": "yorkelee@google.com"
+        }, 
+        {
+            "deletions": 4, 
+            "company": "sonymobile.com", 
+            "insertions": 4, 
+            "bipartite": 0, 
+            "id": "sergii.skorokhodov@sonymobile.com"
+        }, 
+        {
+            "deletions": 1, 
+            "company": "htc.com", 
+            "insertions": 3, 
+            "bipartite": 0, 
+            "id": "louis_chang@htc.com"
+        }, 
+        {
+            "deletions": 17, 
+            "company": "sonymobile.com", 
+            "insertions": 35, 
+            "bipartite": 0, 
+            "id": "marten.kongstad@sonymobile.com"
+        }, 
+        {
+            "deletions": 172, 
+            "company": "google.com", 
+            "insertions": 155, 
+            "bipartite": 0, 
+            "id": "narayan@google.com"
+        }, 
+        {
+            "deletions": 8, 
+            "company": "htc.com", 
+            "insertions": 9, 
+            "bipartite": 0, 
+            "id": "riddle_hsu@htc.com"
+        }, 
+        {
+            "deletions": 29, 
+            "company": "android.com", 
+            "insertions": 61, 
+            "bipartite": 0, 
+            "id": "jsharkey@android.com"
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "target": 27
+        }, 
+        {
+            "source": 1, 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "target": 24
+        }, 
+        {
+            "source": 3, 
+            "target": 23
+        }, 
+        {
+            "source": 3, 
+            "target": 12
+        }, 
+        {
+            "source": 3, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "target": 24
+        }, 
+        {
+            "source": 4, 
+            "target": 12
+        }, 
+        {
+            "source": 5, 
+            "target": 36
+        }, 
+        {
+            "source": 5, 
+            "target": 41
+        }, 
+        {
+            "source": 6, 
+            "target": 25
+        }, 
+        {
+            "source": 7, 
+            "target": 19
+        }, 
+        {
+            "source": 8, 
+            "target": 27
+        }, 
+        {
+            "source": 8, 
+            "target": 17
+        }, 
+        {
+            "source": 8, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "target": 12
+        }, 
+        {
+            "source": 10, 
+            "target": 27
+        }, 
+        {
+            "source": 10, 
+            "target": 17
+        }, 
+        {
+            "source": 10, 
+            "target": 20
+        }, 
+        {
+            "source": 11, 
+            "target": 27
+        }, 
+        {
+            "source": 12, 
+            "target": 24
+        }, 
+        {
+            "source": 13, 
+            "target": 32
+        }, 
+        {
+            "source": 13, 
+            "target": 47
+        }, 
+        {
+            "source": 14, 
+            "target": 37
+        }, 
+        {
+            "source": 15, 
+            "target": 27
+        }, 
+        {
+            "source": 15, 
+            "target": 17
+        }, 
+        {
+            "source": 16, 
+            "target": 39
+        }, 
+        {
+            "source": 17, 
+            "target": 40
+        }, 
+        {
+            "source": 17, 
+            "target": 29
+        }, 
+        {
+            "source": 17, 
+            "target": 44
+        }, 
+        {
+            "source": 17, 
+            "target": 26
+        }, 
+        {
+            "source": 17, 
+            "target": 27
+        }, 
+        {
+            "source": 17, 
+            "target": 33
+        }, 
+        {
+            "source": 18, 
+            "target": 27
+        }, 
+        {
+            "source": 18, 
+            "target": 35
+        }, 
+        {
+            "source": 18, 
+            "target": 33
+        }, 
+        {
+            "source": 18, 
+            "target": 38
+        }, 
+        {
+            "source": 20, 
+            "target": 27
+        }, 
+        {
+            "source": 21, 
+            "target": 45
+        }, 
+        {
+            "source": 21, 
+            "target": 34
+        }, 
+        {
+            "source": 22, 
+            "target": 27
+        }, 
+        {
+            "source": 22, 
+            "target": 45
+        }, 
+        {
+            "source": 22, 
+            "target": 30
+        }, 
+        {
+            "source": 22, 
+            "target": 28
+        }, 
+        {
+            "source": 26, 
+            "target": 27
+        }, 
+        {
+            "source": 27, 
+            "target": 35
+        }, 
+        {
+            "source": 27, 
+            "target": 33
+        }, 
+        {
+            "source": 27, 
+            "target": 40
+        }, 
+        {
+            "source": 27, 
+            "target": 29
+        }, 
+        {
+            "source": 27, 
+            "target": 38
+        }, 
+        {
+            "source": 27, 
+            "target": 44
+        }, 
+        {
+            "source": 28, 
+            "target": 30
+        }, 
+        {
+            "source": 31, 
+            "target": 46
+        }, 
+        {
+            "source": 31, 
+            "target": 42
+        }, 
+        {
+            "source": 31, 
+            "target": 43
+        }, 
+        {
+            "source": 31, 
+            "target": 47
+        }, 
+        {
+            "source": 33, 
+            "target": 35
+        }, 
+        {
+            "source": 34, 
+            "target": 45
+        }, 
+        {
+            "source": 36, 
+            "target": 41
+        }, 
+        {
+            "source": 42, 
+            "target": 43
+        }, 
+        {
+            "source": 42, 
+            "target": 46
+        }, 
+        {
+            "source": 42, 
+            "target": 47
+        }, 
+        {
+            "source": 43, 
+            "target": 46
+        }, 
+        {
+            "source": 43, 
+            "target": 47
+        }, 
+        {
+            "source": 46, 
+            "target": 47
+        }
+    ], 
+    "multigraph": false
+}

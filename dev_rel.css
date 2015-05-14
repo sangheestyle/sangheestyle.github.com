@@ -1,0 +1,17 @@
+.node {
+  opacity: 0.6;
+}
+
+.node:hover {
+  opacity: 1;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: 0.2;
+}
+
+.link:hover {
+  stroke: #999;
+  stroke-opacity: 0.8;
+}
