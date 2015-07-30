@@ -9,12 +9,14 @@
       body {
         min-width: 300px;
         max-width: 600px;
-        margin: 0 auto;
-        padding: 30px;
+        padding: 1em 1em 0 65px;
+		margin: 0 0 0 200px;
       }
 
       .vcard-pic {
-        border-radius: 6px;
+		position: absolute;
+		left: 1em;
+        border-radius: 3px;
       }
 
       .vcard-fullname {
@@ -30,10 +32,17 @@
     </style>
   </head>
   <body>
+    <img class="vcard-pic" src=https://avatars1.githubusercontent.com/u/319490?v=3&s=460"
+    width=230></img>
     <article class="markdown-body">
-      <img class="vcard-pic" src=https://avatars1.githubusercontent.com/u/319490?v=3&s=460"
-      width=230></img>
-      <div class="vcard-fullname">Sanghee Kim</div>
+      <h1 id="me">Sanghee Kim</h1>
+	  <p>Hello! I am Sang-Hee Kim who is pursuing master's degree in Computer Science at 
+	  University of Colorado at Boulder. These days, I am interesting in web programming and 
+	  data science, even though I spent most of my past carrer in software integration engineer 
+	  in smartphone industry before came to Boulder. Now, I live in Boulder, Colorado. You 
+	  can see my <a href="cv.html">curriculum vitae</a>, if you want.
+	  </p>
+	  <h2 id="profiles">Profiles</h2>
       <ul>
         <script language="Javascript">
         var un = "sangheestyle";
@@ -42,41 +51,21 @@
         document.write("<li><a href='" +
             "mail" + "to:" + un + "@" + hn + "'>" + linkText + "</a></li>");
         </script>
-        <li><a href="https://github.com/sangheestyle">github.com/sangheestyle</a></li>
-        <li><a href="https://www.linkedin.com/in/sanghee">linkedin.com/sanghee</a></li>
-        <li><a href="https://www.flickr.com/photos/stylepoint/albums">flickr.com/stylepoint</a></li>
-        <li><a href="https://goo.gl/VH3IS7">Boulder, CO, USA</a></li>
-		<li><a href="cv.html">CV</a></li>
+		<li><a href="https://github.com/sangheestyle">Github</a></li>
+		<li><a href="https://www.linkedin.com/in/sanghee">Linkedin</a></li>
+		<li><a href="http://stackoverflow.com/users/568901/sangheestyle">Stackoverflow</a></li>
+		<li><a href="https://www.flickr.com/photos/stylepoint/albums">Flicker</a></li>
       </ul>
 
-      <h2 id="what_i_am_interested_in">What I am interested in</h2>
-      <h3>Developer's relationship</h3>
-      How can we know some relatioship among developers under a project. 
-      Check <a href="http://bl.ocks.org/sangheestyle/a63916effde2dfffb298">it</a> 
-      out.<br>
-      <br>
-      <div id='dev_rel'></div>
-      <link rel="stylesheet" href="dev_rel.css"></link>
-      <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-      <script src="dev_rel.js"></script>
-
+	  <h2 id="interests">Interests</h2>
       <h3>Crawling android projects on github</h3>
-      Wait for at least 20 sec for loading graph from my very slow DB server. 
-      I am crawling android projects on github and seeing what they are. 
-      Check <a href=https://github.com/sangheestyle/bigdiff-code">it</a> out.<br>
-      <br>
-      <div id='crawl_android'></div>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js" charset="utf-8"></script>
-      <script type="text/javascript"
-        src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-      <link rel="stylesheet" type="text/css"
-        href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.css">
-      <script src="crawl_android.js"></script>
-
+	  <a href="https://github.com/sangheestyle/bigdiff-code">Bigdiff-code</a> is for
+      crawling information of android projects on github, cloning them, and seeing what they 
+	  are. This is my first time experience for web programming and node.js programming.
       <h3>In class Kaggle competition</h3>
-      I like some NLP and machine learning thingy even I am not really good 
-      at. Here is what I did in NLP and machine learning class competitions.<br>
-      <br>
+      I enjoy some NLP and machine learning thingy even I am not really good 
+      at. Here is what I did in NLP and machine learning class competitions.
+	  <br><br>
       Machine Learning class for Spring 2015
       <ul>
         <li><a href="https://inclass.kaggle.com/c/when-they-buzz2/leaderboard">
@@ -90,7 +79,25 @@
           8th rank: When to Buzz</a></li>
         <li><a href="https://inclass.kaggle.com/c/cmsc-5832-classification/leaderboard">
          21st rank: Document Classification</a></li>
-      </ul>
+	  </ul>
+
+	  <a href="https://github.com/sangheestyle/ml2015project">ML2015Project</a> is written in 
+	  Python with Scikit-learn, Matplotlib, and IPython to solve ML problem. You can see what 
+	  we did at 
+	  <a href="https://github.com/sangheestyle/ml2015project/blob/master/howto/model27_the_last.ipynb">IPython Notebook</a>.
+
+      <h3>Developer's relationship</h3>
+	  <a href="https://github.com/sangheestyle/flatiron">Flatiron</a> is intended for 
+	  mining git repository and drawing graph for showing developers' relationship.
+      How can we know some relatioship among developers under a project. 
+      Check <a href="http://bl.ocks.org/sangheestyle/a63916effde2dfffb298">it</a> 
+      out.<br>
+      <br>
+      <div id='dev_rel'></div>
+      <link rel="stylesheet" href="dev_rel.css"></link>
+      <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+      <script src="dev_rel.js"></script>
+
      </article>
   </body>
 </html>
